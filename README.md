@@ -2,10 +2,6 @@
 
 This project is a Python translation of the Kyber (version 3) post-quantum IND-CCA2 Key Encapsulation Mechanism (KEM), originally implemented in Go by Symbolic Software. The library aims to provide an accessible Python interface for working with the Kyber cryptographic protocol, adhering to the post-quantum security principles.
 
-## Original Library
-
-The original Go implementation by Symbolic Software can be found at [Symbolic Software's Kyber Repository](https://github.com/symbolicsoft/kyber-k2so). This Python translation is based on their work and seeks to faithfully recreate the functionality of the Kyber KEM for Python environments.
-
 ## License
 
 This project is released under the MIT License, consistent with the licensing of the original Go implementation by Symbolic Software.
@@ -45,7 +41,7 @@ You can clone the project and run the usage example found in `example.py`.
 
 ## Acknowledgments
 
-Thanks to Symbolic Software for their development of the original Kyber-K2SO library in Go. This Python project is a translation and adaptation of their work, intended to make the Kyber KEM accessible to Python developers interested in post-quantum cryptography.
+Thanks to Symbolic Software for their development of the original Kyber-K2SO library in Go. This Python project is a translation and adaptation of their work, intended to make the Kyber KEM accessible to Python developers interested in post-quantum cryptography. The original Go implementation by Symbolic Software can be found at [Symbolic Software's Kyber Repository](https://github.com/symbolicsoft/kyber-k2so).
 
 ## Disclaimer
 
