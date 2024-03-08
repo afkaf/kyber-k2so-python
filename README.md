@@ -39,6 +39,10 @@ The above example illustrates the process of securely exchanging a 32-byte secre
 
 You can clone the project and run the usage example found in `example.py`.
 
+## Performance and Optimization
+
+I've optimized a couple functions to enhance performance, leveraging Numpy for efficient computation in Python. My goal is to continue this work, ensuring that the library not only faithfully recreates the functionality of the original implementation by Symbolic Software but also runs as efficiently as possible in Python environments.
+
 ## Acknowledgments
 
 Thanks to Symbolic Software for their development of the original Kyber-K2SO library in Go. This Python project is a translation and adaptation of their work, intended to make the Kyber KEM accessible to Python developers interested in post-quantum cryptography. The original Go implementation by Symbolic Software can be found at [Symbolic Software's Kyber Repository](https://github.com/symbolicsoft/kyber-k2so).
